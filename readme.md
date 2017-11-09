@@ -273,13 +273,15 @@ Argumentを選択してArgumentパネルを表示する。
 **Create Argument**を選択  
 ![](image/input.argument.step004.png)
 
-下記のように入力して引数inputvalueを定義する。  
+下記のように入力して引数inputvalueを定義する。
+
 | 項目            | 値          |
 |---------------|------------|
 | Name          | inputValue |
 | Direction     | In         |
 | Argument Type | String     |
 | Default value |            |
+
 ![](image/input.argument.step005.png)
 
 左側のActivitiesパネルから**Message Box**を選択して追加  
